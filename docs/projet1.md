@@ -6,6 +6,20 @@ L’objectif principal est de fournir aux équipes RH et à la direction un outi
 
 ---
 
+## 🏢 Valeur ajoutée métier
+
+Ce tableau de bord apporte une réelle valeur stratégique à la fonction RH en transformant les données internes en informations exploitables pour la prise de décision. Il permet aux équipes RH d’obtenir une vue globale et instantanée des effectifs, de l’attrition, de la satisfaction et des performances.
+
+### 🎯 Bénéfices principaux
+- **Identification des populations à risque** : analyse détaillée de l’attrition par âge, poste, ancienneté et salaire pour anticiper les départs.
+- **Aide à la décision** : appui pour ajuster les rémunérations, planifier les recrutements et orienter les formations.
+- **Optimisation des ressources humaines** : repérage des départements sous tension et meilleure allocation du budget RH.
+- **Démarche data-driven** : automatisation et standardisation des analyses qui renforcent le rôle stratégique de la fonction RH.
+
+Ce tableau de bord devient ainsi un outil essentiel pour piloter la performance sociale de l’entreprise et soutenir une gestion proactive des talents.
+
+---
+
 # 📁 Aperçu du projet
 - **2 pages Power BI** entièrement interactives  
 - **7 KPI clés** (effectif, attrition, salaire, satisfaction, performance, âge, ancienneté)  
