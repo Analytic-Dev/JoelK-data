@@ -119,7 +119,4 @@ Ce tableau de bord transforme des données brutes en **leviers d'action concrets
 
 **Un outil décisionnel qui passe de la simple visualisation à l'action opérationnelle.**
 
----
-
-*Documentation projet – Données commerciales anonymisées*
 ```
