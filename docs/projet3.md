@@ -1,11 +1,11 @@
 # 🌐 Projet — Tableau de Bord de Suivi des Ventes
 
-## 1. 🎯 Contexte du projet
+## 🎯 Contexte du projet
 
 Ce projet consiste à développer un tableau de bord Power BI permettant de suivre les performances commerciales d'une entreprise spécialisée dans la vente de produits électroniques.  
 L'objectif est de fournir aux équipes dirigeantes, financières et commerciales un outil d'analyse moderne, interactif et automatisé pour comprendre les tendances de ventes, identifier les leviers de croissance et améliorer la prise de décision.
 
-## 2. 🎯 Objectifs
+## 🎯 Objectifs
 
 Le tableau de bord répond aux objectifs suivants :
 
@@ -18,7 +18,7 @@ Le tableau de bord répond aux objectifs suivants :
 
 ---
 
-## 3. 🧩 Modèle de données
+## 🧩 Modèle de données
 
 Les données utilisées proviennent d'un dataset retail contenant :
 
